@@ -23,18 +23,35 @@ Invenza is a **modern inventory and sales management solution** built with C# an
 | UI              | Windows Forms |
 | Architecture    | 3-Layer (Presentation, Business Logic, Data Access) |
 | Development Model | Iterative |
+---
 
-## 📂 Project Structure
-Invenza/
-├── Main Application/
-│ ├── RegisterForm.cs # Main entry point
-│ ├── loginForm.cs # Authentication
-│ ├── landingPage.cs # Dashboard
-│ ├── addBusinessDetails.cs # Business management
-│ └── addProduct.cs # Product management
-├── Resources/
-│ └── *.resx # Localization and assets
-└── RegisterForm.sln # Visual Studio solution
+## 📁 File Structure
+
+RegisterForm/
+├── Properties/ # Project-level settings
+├── obj/ # Build-related files
+├── RegisterForm.Designer.cs # UI layout of RegisterForm
+├── RegisterForm.cs # Code-behind logic for RegisterForm
+├── RegisterForm.resx # Resources (images, labels, etc.)
+├── addBusinessDetails.Designer.cs # UI layout for business form
+├── addBusinessDetails.cs # Business details logic
+├── addBusinessDetails.aa.resx # Business resource file
+├── addBusinessDetails.resx # Additional business resources
+├── addProduct.Designer.cs # UI for product form
+├── addProduct.cs # Product handling logic
+├── addProduct.resx # Product resources
+├── landingPage.Designer.cs # UI for dashboard
+├── landingPage.cs # Landing page backend
+├── landingPage.resx # Dashboard resources
+├── loginForm.Designer.cs # UI for login
+├── loginForm.cs # Login functionality
+├── loginForm.resx # Login resources
+├── README.md # Project overview and instructions
+└── RegisterForm.sln # Visual Studio solution file
+
+yaml
+Copy
+Edit
 
 text
 
@@ -52,25 +69,23 @@ Build & Run:
 
 Press F5 in Visual Studio
 
-🎯 Why Choose Invenza?
-✅ 60% faster inventory operations
-✅ 90% reduction in stock errors
-✅ Scalable for growing businesses
-✅ Intuitive Windows interface
-
 🔮 Future Roadmap
 Mobile companion app
 
-Barcode scanning integration
+Role-based access (Admin/User)
+
+Database integration (SQL Server)
+
+Reporting and analytics dashboards
+
+Barcode scanner support
 
 Cloud synchronization
 
 Advanced analytics dashboard
 
 👥 Contributors
-Your Name
+Shilok Kumar , Ali Asjad & Sameer Khan
 
 Team Member
 
-📜 License
-MIT © 2023 Invenza Team
