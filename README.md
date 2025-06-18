@@ -25,9 +25,8 @@ Invenza is a **modern inventory and sales management solution** built with C# an
 | Development Model | Iterative |
 ---
 
-## 📁 File Structure
-
-RegisterForm/
+## 📂 Project Structure
+```RegisterForm/
 ├── Properties/ # Project-level settings
 ├── obj/ # Build-related files
 ├── RegisterForm.Designer.cs # UI layout of RegisterForm
@@ -48,12 +47,7 @@ RegisterForm/
 ├── loginForm.resx # Login resources
 ├── README.md # Project overview and instructions
 └── RegisterForm.sln # Visual Studio solution file
-
-yaml
-Copy
-Edit
-
-text
+```
 
 ## 🚀 Getting Started
 1. **Prerequisites**:
