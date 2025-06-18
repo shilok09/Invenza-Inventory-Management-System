@@ -64,22 +64,22 @@ Build & Run:
 Press F5 in Visual Studio
 
 🔮 Future Roadmap
-Mobile companion app
+   - Mobile companion app
 
-Role-based access (Admin/User)
+   - Role-based access (Admin/User)
 
-Database integration (SQL Server)
+   - Database integration (SQL Server)
 
-Reporting and analytics dashboards
+   - Reporting and analytics dashboards
 
-Barcode scanner support
+   - Barcode scanner support
 
-Cloud synchronization
+   - Cloud synchronization
 
-Advanced analytics dashboard
+   - Advanced analytics dashboard
 
-👥 Contributors
-Shilok Kumar , Ali Asjad & Sameer Khan
-
-Team Member
+👥 Developed By
+   - Shilok Kumar
+   - Ali Asjad
+   - Sameer Khan
 
