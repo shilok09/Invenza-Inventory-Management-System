@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\INVENZA\RegisterForm\RegisterForm\obj\Debug\net8.0-windows\RegisterForm.loginForm.resources
+C:\Users\admin\source\repos\INVENZA\RegisterForm\RegisterForm\obj\Debug\net8.0-windows\RegisterForm.Properties.Resources.resources
+C:\Users\admin\source\repos\INVENZA\RegisterForm\RegisterForm\obj\Debug\net8.0-windows\RegisterForm.RegisterForm.resources
+C:\Users\admin\source\repos\INVENZA\RegisterForm\RegisterForm\obj\Debug\net8.0-windows\RegisterForm.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\INVENZA\RegisterForm\RegisterForm\obj\Debug\net8.0-windows\RegisterForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\INVENZA\RegisterForm\RegisterForm\obj\Debug\net8.0-windows\RegisterForm.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\INVENZA\RegisterForm\RegisterForm\obj\Debug\net8.0-windows\RegisterForm.AssemblyInfo.cs
+C:\Users\admin\source\repos\INVENZA\RegisterForm\RegisterForm\obj\Debug\net8.0-windows\RegisterForm.csproj.CoreCompileInputs.cache
